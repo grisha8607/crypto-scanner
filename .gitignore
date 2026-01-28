@@ -1,0 +1,20 @@
+# Python кэш и временные файлы
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Виртуальное окружение
+.venv/
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# exe файлы
+*.exe
+
+# Системные файлы Windows
+Thumbs.db
+.DS_Store
